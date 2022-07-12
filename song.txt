@@ -9,3 +9,5 @@ six row
 
 content
 cintent2
+
+infa novoy vetki
