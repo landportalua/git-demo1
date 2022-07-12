@@ -11,3 +11,5 @@ content
 cintent2
 
 infa novoy vetki
+
+dop koomit dlya proverki
